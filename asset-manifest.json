@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.eeaf115a.chunk.css",
-    "main.js": "/static/js/main.2df7d93f.chunk.js",
-    "main.js.map": "/static/js/main.2df7d93f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b2109bab.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b2109bab.js.map",
-    "static/css/2.eb45ad44.chunk.css": "/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.4b6b2329.chunk.js": "/static/js/2.4b6b2329.chunk.js",
-    "static/js/2.4b6b2329.chunk.js.map": "/static/js/2.4b6b2329.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.d2a19bf8e4e94840d6e64479b521d792.js": "/precache-manifest.d2a19bf8e4e94840d6e64479b521d792.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.eb45ad44.chunk.css.map": "/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.eeaf115a.chunk.css.map": "/static/css/main.eeaf115a.chunk.css.map",
-    "static/js/2.4b6b2329.chunk.js.LICENSE.txt": "/static/js/2.4b6b2329.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/Spongeboy Me Bob.2c84a11c.woff"
+    "main.css": "/robofriends/static/css/main.de3e9871.chunk.css",
+    "main.js": "/robofriends/static/js/main.785bb345.chunk.js",
+    "main.js.map": "/robofriends/static/js/main.785bb345.chunk.js.map",
+    "runtime-main.js": "/robofriends/static/js/runtime-main.03e2f00f.js",
+    "runtime-main.js.map": "/robofriends/static/js/runtime-main.03e2f00f.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/robofriends/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.4b6b2329.chunk.js": "/robofriends/static/js/2.4b6b2329.chunk.js",
+    "static/js/2.4b6b2329.chunk.js.map": "/robofriends/static/js/2.4b6b2329.chunk.js.map",
+    "index.html": "/robofriends/index.html",
+    "precache-manifest.6e631ed3273490c4678045c02be654ef.js": "/robofriends/precache-manifest.6e631ed3273490c4678045c02be654ef.js",
+    "service-worker.js": "/robofriends/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/robofriends/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.de3e9871.chunk.css.map": "/robofriends/static/css/main.de3e9871.chunk.css.map",
+    "static/js/2.4b6b2329.chunk.js.LICENSE.txt": "/robofriends/static/js/2.4b6b2329.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robofriends/static/media/Spongeboy Me Bob.2c84a11c.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.b2109bab.js",
+    "static/js/runtime-main.03e2f00f.js",
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.4b6b2329.chunk.js",
-    "static/css/main.eeaf115a.chunk.css",
-    "static/js/main.2df7d93f.chunk.js"
+    "static/css/main.de3e9871.chunk.css",
+    "static/js/main.785bb345.chunk.js"
   ]
 }
