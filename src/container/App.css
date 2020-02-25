@@ -1,0 +1,18 @@
+body{
+	background: linear-gradient(to right, #009FFF,#ec2F4B);
+
+}
+
+@font-face {
+font-family: 'Spongeboy Me Bob Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Spongeboy Me Bob Regular'), url('Spongeboy Me Bob.woff') format('woff');
+}
+
+
+h1{
+	font-family: 'Spongeboy Me Bob Regular';
+	font-weight: 200;
+
+}
